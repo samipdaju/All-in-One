@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593599067583",
+    "project_id": "sending-again",
+    "storage_bucket": "sending-again.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593599067583:android:fb85e6c16a37e3dda6dd0a",
+        "android_client_info": {
+          "package_name": "com.example.currency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593599067583-3hagl7gpb6at4q4shv6et13dbup97coc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbJwrDP1u7gGmYHewo-z1yIJUTi4SBsNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593599067583-3hagl7gpb6at4q4shv6et13dbup97coc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
